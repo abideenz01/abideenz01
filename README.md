@@ -1,3 +1,4 @@
+<img width="1774" height="887" alt="Zain UL Abideen-Cover Image" src="https://github.com/user-attachments/assets/8e0ea20d-dfc9-4919-ba6a-e347fd14cd50" />
 # 👨‍💻 Author
 ## 🌟 About Me: 👋 Hi, I'm Zain UL Abideen | Data Engineer
 ## I am passionate about Building scalable data pipelines that turn raw data into actionable insights
